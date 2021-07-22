@@ -2,7 +2,7 @@
 
 # Industrial Biotechnology
 
-Course offered by the University of Manchesteron Coursera
+Course offered by the University of Manchester on Coursera
   <br>
 https://www.coursera.org/learn/industrial-biotech
 
